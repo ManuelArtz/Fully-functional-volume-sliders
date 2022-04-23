@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mixkit-pop-07-699.mp3-1234a55dbe500596b38403fd9b0fc301.mp3str"
+
+[deps]
+
+source_file="res://mixkit-pop-07-699.mp3"
+dest_files=[ "res://.import/mixkit-pop-07-699.mp3-1234a55dbe500596b38403fd9b0fc301.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
