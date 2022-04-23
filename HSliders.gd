@@ -8,7 +8,7 @@ extends Node
 # IMPORTANT: Remember to check out Global.gd
 # REMEMBER: THE AUDIO YOU CHOOSE SHOULD BE IN A SPECIFIC AUDIO BUS TO WORK.
 
-# You MUST put this one the _ready(): script
+# You MUST put this one on the _ready(): script
 
 func _ready():
 	$VBoxContainer/MusicVolume.value = Global.volume1
