@@ -1,4 +1,4 @@
-# Fully functional volume sliders
+# Volume Sliders (Singleton example)
 ## Imagine this:
 You made yourself some volume sliders. Great! But when you change the slider's value (visually), debug, swicth scenes and then come back to the scene with the sliders, you nitice that it resets to its original position. "How do I fix that?" you may ask. Well, here's a template project to understand how singletons can be implemented to store values!
 
