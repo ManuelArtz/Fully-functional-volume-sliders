@@ -1,3 +1,4 @@
 I submitted this project template some months ago and did the mistake to not add a .gitignore file. Even worse, I also added the .import folder. I had no idea how to do what. Now I do, so I fixed everything necessary.
+I also added a video example (finally, I am not lazy!).
 
 By the way, this text file won't be extracted with the ZIP file (see .gitattributes).
