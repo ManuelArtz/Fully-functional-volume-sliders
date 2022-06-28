@@ -1,6 +1,6 @@
 # Volume Sliders (Singleton example)
 ## Imagine this:
-You made yourself some volume sliders. Great! But when you change the slider's value (visually), debug, swicth scenes and then come back to the scene with the sliders, you nitice that it resets to its original position. "How do I fix that?" you may ask. Well, here's a template project to fix this issue, while also understanding how singletons can be implemented to store values!
+You made yourself some volume sliders. Great! But when you change the slider's value (visually), debug, swicth scenes and then come back to the scene with the sliders, you notice that it resets to its original position. "How do I fix that?" you may ask. Well, here's a template project to fix this issue, while also understanding how singletons can be implemented to store values!
 
 ## What is a "Singleton"?
 According to the official Godot Documentation, it's a useful tool for solving the common use case where you need to store persistent information between scenes.
